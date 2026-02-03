@@ -1,0 +1,18 @@
+{
+  "name": "dsa-interview-prep",
+  "version": "1.0.0",
+  "description": "Comprehensive Data Structures & Algorithms interview preparation in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test **/*.test.js"
+  },
+  "keywords": [
+    "data-structures",
+    "algorithms",
+    "interview-prep",
+    "javascript",
+    "coding-interview"
+  ],
+  "author": "Conner Gesbocker",
+  "license": "MIT"
+}
